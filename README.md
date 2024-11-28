@@ -26,7 +26,7 @@
 <p>
   <a href="https://www.linkedin.com/in/gopal-bhardwaj/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gopalbhardwaj" height="30" width="40" /></a> | 
   <a href="https://www.kaggle.com/gopalbhardwaj" target="_blank">Kaggle</a> | 
-  <a href="mailto:gopalbhardwaj007@gmail.com">Email</a>
+  <a href="mailto:gopalbhardwaj007@gmail.com"><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/gmail.svg" alt="gopalbhardwaj" height="30" width="40" /></a>
 </p>
 
 <h2>📈 GitHub Stats</h2>

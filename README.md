@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**gopalbhardwaj/gopalbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- README.md -->
+<h1 align="center">Hi, I'm Gopal Bhardwaj 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Experienced BI Developer with 10+ years in IT, specializing in data visualization and analytics.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>💼 Currently working as a Power BI Developer.</li>
+  <li>📊 Skilled in BI tools: Spotfire, SAP BO, OBIEE, Alteryx.</li>
+  <li>🎯 Passionate about turning data into actionable insights.</li>
+  <li>🌱 Learning advanced data science and visualization techniques.</li>
+  <li>🌍 Love exploring new technologies and traveling to discover new perspectives.</li>
+</ul>
+
+<h2>🚀 Skills</h2>
+<ul>
+  <li>Data Visualization</li>
+  <li>Business Intelligence</li>
+  <li>ETL and Data Transformation</li>
+  <li>SQL and Data Analysis</li>
+  <li>Automation and Workflow Optimization</li>
+</ul>
+
+<h2>📫 Connect with Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/gopal-bhardwaj/" target="_blank">LinkedIn</a> | 
+  <a href="https://www.kaggle.com/gopalbhardwaj" target="_blank">Kaggle</a> | 
+  <a href="mailto:gopalbhardwaj007@gmail.com">Email</a>
+</p>
+
+<h2>📈 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>

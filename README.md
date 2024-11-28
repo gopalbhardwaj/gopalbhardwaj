@@ -24,10 +24,11 @@
 
 <h2>📫 Connect with Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/gopal-bhardwaj/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gopalbhardwaj" height="30" width="40" /></a> | 
-  <a href="https://www.kaggle.com/gopalbhardwaj" target="_blank">Kaggle</a> | 
+  <a href="https://www.linkedin.com/in/gopal-bhardwaj/" target="_blank"><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/linkedin.svg" alt="gopalbhardwaj" height="30" width="40" /></a> | 
+  <a href="https://www.kaggle.com/gopalbhardwaj" target="_blank"><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/gmail.svg" alt="gopalbhardwaj" height="30" width="40" /></a> | 
   <a href="mailto:gopalbhardwaj007@gmail.com"><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/gmail.svg" alt="gopalbhardwaj" height="30" width="40" /></a>
 </p>
+
 
 <h2>📈 GitHub Stats</h2>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /></p>

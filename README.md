@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- README.md -->
 <h1 align="center">Hi, I'm Gopal Bhardwaj 👋</h1>
 

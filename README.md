@@ -7,11 +7,11 @@
 
 <h2>👨‍💻 About Me</h2>
 <ul>
-  <li>🚀 With nearly a decade of expertise as a BI Consultant, I specialize in crafting impactful Business Intelligence Applications for Product Development and client-facing domains.</li>
-  <li>🔍 My journey involves eliciting and analyzing requirements, designing, and delivering business reporting solutions using cutting-edge analytical tools such as TIBCO Spotfire, SAP BO, Microsoft Power BI, and Composite Studio.</li>
-  <li>🌐 My diverse domain experience spans Finance, Aviation, Food & Beverages, and Oil & Gas, offering deep insights into each industry's unique needs.</li>
-  <li>🎨 Proficient in Visual Analytics and BI Solution Design, I cover the full spectrum from Requirement Gathering to Report Design and robust testing and review strategies.</li>
-  <li>📈 Let's connect to explore how I can help drive data-powered growth and strategic decisions for your business!</li>
+  <li>🚀 Nearly a decade of BI expertise, crafting impactful solutions for Product Development and client-focused domains.</li>
+  <li>🔍 Skilled in requirements analysis, design, and delivery using tools like TIBCO Spotfire, SAP BO, Power BI, and Composite Studio.</li>
+  <li>🌐 Industry experience in Finance, Aviation, Food & Beverages, and Oil & Gas, with tailored insights for each sector.</li>
+  <li>🎨 Proficient in Visual Analytics and BI Design, from gathering requirements to report design, testing, and review.</li>
+  <li>📈 Let’s connect to drive growth and strategic decisions through data!</li>
 </ul>
 
 <h2>🚀 Skills</h2>

@@ -30,7 +30,7 @@
   <a href="https://www.kaggle.com/gopalbhardwaj" target="_blank"><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/kaggle.svg" alt="gopalbhardwaj" height="30" width="40" /></a>
 </p>
 
-<iframe title="Competitive Marketing Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDZmNmItZTRjOC00ZDgzLTkyZTktNGNkMTQ4NzhlZDAyIiwidCI6IjAzYWYwZGZkLTdlZWEtNDI5MS1hNDY5LWJlOGQ2ZGJjMjdkNCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+<div title="Competitive Marketing Analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDZmNmItZTRjOC00ZDgzLTkyZTktNGNkMTQ4NzhlZDAyIiwidCI6IjAzYWYwZGZkLTdlZWEtNDI5MS1hNDY5LWJlOGQ2ZGJjMjdkNCIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></div>
 
 <!-- <h2>📈 GitHub Stats</h2> -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /></p>

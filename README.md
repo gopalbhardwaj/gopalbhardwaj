@@ -31,16 +31,16 @@
 </p>
 <br>
 
-<h2><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/powerbi.svg" alt="gopalbhardwaj" height="30" width="30" />Sample Dashboards</h2>
+<h2><img align="center" target="_blank" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/powerbi.svg" alt="gopalbhardwaj" height="25" width="25" />Sample Dashboards</h2>
 </5>Click on the below images to open the interactive dashboard</h5>
 <br>
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDZmNmItZTRjOC00ZDgzLTkyZTktNGNkMTQ4NzhlZDAyIiwidCI6IjAzYWYwZGZkLTdlZWEtNDI5MS1hNDY5LWJlOGQ2ZGJjMjdkNCIsImMiOjEwfQ%3D%3D" target="_blank">
-	<img align="center" width = "800px" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Competitive%20Analysis%20Report.png">
+	<img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Competitive%20Analysis%20Report.png">
 </a>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMmM4YzFkYjktZWViMS00YjA4LWI5NGItYTdlNjAyZTNmMGExIiwidCI6IjAzYWYwZGZkLTdlZWEtNDI5MS1hNDY5LWJlOGQ2ZGJjMjdkNCIsImMiOjEwfQ%3D%3D" target="_blank">
-<img align="center" width = "800px" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Sales%20Dashboard.png">
+<img align="center" width = 800px src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Sales%20Dashboard.png">
 </a>
 
-<!-- <h2>📈 GitHub Stats</h2> -->
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+<h2>📈 GitHub Stats</h2>
+<p align="left" width = 800px> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /></p>

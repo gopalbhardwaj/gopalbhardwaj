@@ -42,5 +42,7 @@
 <img align="center" width = "800px" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Sales%20Dashboard.png">
 </a>
 
+<!--
 <h2>📈 GitHub Stats</h2>
 <p align="left" width = "800px"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+-->

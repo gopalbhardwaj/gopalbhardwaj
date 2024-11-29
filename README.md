@@ -30,9 +30,15 @@
   <a href="https://www.kaggle.com/gopalbhardwaj" target="_blank"><img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/icons/kaggle.svg" alt="gopalbhardwaj" height="30" width="40" /></a>
 </p>
 
+<h2>Sample Dashboards</h2>
+</5>Click on the below images to open the interactive dashboard</h5>
 
-<img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Competitive%20Analysis%20Report.png">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYzQ0NDZmNmItZTRjOC00ZDgzLTkyZTktNGNkMTQ4NzhlZDAyIiwidCI6IjAzYWYwZGZkLTdlZWEtNDI5MS1hNDY5LWJlOGQ2ZGJjMjdkNCIsImMiOjEwfQ%3D%3D" target="_blank">
+	<img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Competitive%20Analysis%20Report.png">
+</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMmM4YzFkYjktZWViMS00YjA4LWI5NGItYTdlNjAyZTNmMGExIiwidCI6IjAzYWYwZGZkLTdlZWEtNDI5MS1hNDY5LWJlOGQ2ZGJjMjdkNCIsImMiOjEwfQ%3D%3D" target="_blank">
 <img align="center" src="https://github.com/gopalbhardwaj/gopalbhardwaj/blob/main/assets/dashboard/Sales%20Dashboard.png">
+</a>
 
 <!-- <h2>📈 GitHub Stats</h2> -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
